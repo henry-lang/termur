@@ -2,7 +2,12 @@
 name = "termur"
 version = "0.1.0"
 edition = "2021"
-
+license = "MIT"
+description = "A work in progress social media for programmers accessible through the terminal."
+homepage = "https://github.com/henry-lang/termur"
+documentation = "N/A"
+repository = "https://github.com/henry-lang/termur"
+readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
